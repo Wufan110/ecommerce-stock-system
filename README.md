@@ -1,3 +1,5 @@
+![部署状态](https://img.shields.io/badge/部署-在线成功-brightgreen)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red)
 # 电商商品智能替换系统
 
 ## 项目简介
@@ -53,9 +55,15 @@ ecommerce_stock_system/
 - 实时库存监控
 - 多级风险预警
 
-## 技术栈
+## 技术栈## 🌐 在线演示
+
+[![Streamlit App](https://ecommerce-stock-system-nwxpappw3rruv6majw8grp2.streamlit.app/)](你的部署链接)
+
+现场体验所有功能：https://你的应用名称.streamlit.app
 - Python 3.x
 - Pandas, NumPy
 - Scikit-learn
 - Matplotlib, Seaborn
 - Jupyter Notebook
+
+
