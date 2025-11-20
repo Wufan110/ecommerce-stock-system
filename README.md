@@ -59,7 +59,7 @@ ecommerce_stock_system/
 
 [![Streamlit App](https://ecommerce-stock-system-nwxpappw3rruv6majw8grp2.streamlit.app/)](你的部署链接)
 
-现场体验所有功能：https://你的应用名称.streamlit.app
+现场体验所有功能：https://ecommerce-stock-system-wufan110.streamlit.app
 - Python 3.x
 - Pandas, NumPy
 - Scikit-learn
